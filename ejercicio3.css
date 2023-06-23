@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: lightcyan;
+}
+main{
+    padding-top: 1rem;
+    padding-left: 1rem;
+    color: black;
+}
+ul,ol{
+    padding-left: 2rem;
+}
